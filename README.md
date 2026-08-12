@@ -224,3 +224,17 @@ Possible future improvements include:
 **Data Analytics / Business Intelligence Project**
 
 Technologies: **Python | Pandas | Matplotlib | MySQL | SQL**
+
+## 📊 Project Visualizations
+
+### Monthly Sales Trend
+![Monthly Sales Trend](Screenshots/monthly%20sales%20trend.png)
+
+### Sales and Profit by Category
+![Sales and Profit by Category](Screenshots/sales%20and%20profit%20by%20category.png)
+
+### Sales and Profit by Region
+![Sales and Profit by Region](Screenshots/sales%20and%20profit%20by%20region.png)
+
+### Top 10 Products by Sales
+![Top 10 Products by Sales](Screenshots/top%2010%20products%20by%20sale.png)
