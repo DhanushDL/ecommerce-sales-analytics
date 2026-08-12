@@ -238,3 +238,23 @@ Technologies: **Python | Pandas | Matplotlib | MySQL | SQL**
 
 ### Top 10 Products by Sales
 ![Top 10 Products by Sales](Screenshots/top%2010%20products%20by%20sale.png)
+
+## 📌 Key Business Insights
+
+The analysis of the Superstore dataset produced the following overall business KPIs:
+
+| KPI             |        Value |
+| --------------- | -----------: |
+| Total Sales     | 2,297,200.86 |
+| Total Profit    |   286,397.02 |
+| Profit Margin   |       12.47% |
+| Total Orders    |        5,009 |
+| Total Customers |          793 |
+
+### Key Findings
+
+* The business generated approximately **2.30 million in total sales**.
+* Total profit was approximately **286.40K**, resulting in an overall **12.47% profit margin**.
+* The dataset contains **5,009 distinct orders** from **793 distinct customers**.
+* Product, customer, regional, category, discount, and shipping analyses were performed to identify areas of strong and weak business performance.
+* The analysis can help identify profitable products, loss-making products, high-value customers, and regions requiring performance improvement.
